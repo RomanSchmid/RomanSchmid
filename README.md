@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A self-taught coder from Czech Republic</h3>
 
-- 🌱 I’m currently learning **intermediate HTML, CSS and JS. After that, I'd like to start with React.**
+- 🌱 I’m currently learning **intermediate HTML, CSS and JS. Following that, I'd like to start learning React.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
