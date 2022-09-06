@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A self-taught person who is learning to code</h3>
+<h3 align="center">Self-taught 👨🏻‍💻 Currently learning HTML | CSS | JavaScript | Git</h3>
 
 - 🌱 Currently learning: **HTML | CSS | JavaScript**
 
